@@ -1,6 +1,8 @@
 # ife
 Estimate Interactive Fixed Effects Model (Bai 2009) Use ife (xtife) With (In) R Software
 
+https://www.youtube.com/watch?v=4eW2mV0jmPU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
